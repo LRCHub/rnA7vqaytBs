@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "落葉",
+  "base_artist": "ナツノセ",
+  "createdAt": "2025-12-20T11:20:16.341107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "落葉",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/01_落葉_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "落葉",
+      "artist": "Kanako Ito",
+      "has_synced": true,
+      "path": "select/02_落葉_Kanako_Ito.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "落葉",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/03_落葉_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "落葉",
+      "artist": "Dizzy Dizzo",
+      "has_synced": true,
+      "path": "select/04_落葉_Dizzy_Dizzo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "落葉",
+      "artist": "秋紅樂隊",
+      "has_synced": true,
+      "path": "select/05_落葉_秋紅樂隊.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "落葉",
+      "artist": "ナツノセ",
+      "has_synced": false,
+      "path": "select/pl_01_落葉_ナツノセ.txt"
+    }
+  ]
+}
